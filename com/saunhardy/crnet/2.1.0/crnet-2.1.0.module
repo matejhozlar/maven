@@ -1,0 +1,83 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.saunhardy",
+    "module": "crnet",
+    "version": "2.1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.2.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "crnet-2.1.0.jar",
+          "url": "crnet-2.1.0.jar",
+          "size": 33371,
+          "sha512": "9739409b03ec9e3589061b2787e799681943e9271a99edcc34629d69f1f8a2071cf466d6a9ff79aecb1ef9ab9c81e9d0b7b17ec633b68fd7a234ceed98ca1d8c",
+          "sha256": "c60e1b86b05670874e737ec1f50cdfff288fb88a78dd7d08b15c4828d7a9a037",
+          "sha1": "a6f4ca3e849304a84797c2c9b199b37e8488325d",
+          "md5": "aa5ba273462f16f7e42b2b58e826003c"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.jsonwebtoken",
+          "module": "jjwt-api",
+          "version": {
+            "requires": "0.12.5"
+          }
+        },
+        {
+          "group": "io.jsonwebtoken",
+          "module": "jjwt-impl",
+          "version": {
+            "requires": "0.12.5"
+          }
+        },
+        {
+          "group": "io.jsonwebtoken",
+          "module": "jjwt-gson",
+          "version": {
+            "requires": "0.12.5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "crnet-2.1.0.jar",
+          "url": "crnet-2.1.0.jar",
+          "size": 33371,
+          "sha512": "9739409b03ec9e3589061b2787e799681943e9271a99edcc34629d69f1f8a2071cf466d6a9ff79aecb1ef9ab9c81e9d0b7b17ec633b68fd7a234ceed98ca1d8c",
+          "sha256": "c60e1b86b05670874e737ec1f50cdfff288fb88a78dd7d08b15c4828d7a9a037",
+          "sha1": "a6f4ca3e849304a84797c2c9b199b37e8488325d",
+          "md5": "aa5ba273462f16f7e42b2b58e826003c"
+        }
+      ]
+    }
+  ]
+}
