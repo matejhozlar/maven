@@ -3,11 +3,11 @@
   <groupId>com.saunhardy</groupId>
   <artifactId>crnet</artifactId>
   <versioning>
-    <latest>2.2.0</latest>
-    <release>2.2.0</release>
+    <latest>2.3.0</latest>
+    <release>2.3.0</release>
     <versions>
-      <version>2.2.0</version>
+      <version>2.3.0</version>
     </versions>
-    <lastUpdated>20260410145409</lastUpdated>
+    <lastUpdated>20260410153244</lastUpdated>
   </versioning>
 </metadata>
