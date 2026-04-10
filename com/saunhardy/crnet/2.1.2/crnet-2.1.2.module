@@ -27,11 +27,11 @@
         {
           "name": "crnet-2.1.2.jar",
           "url": "crnet-2.1.2.jar",
-          "size": 33839,
-          "sha512": "77ca1ead349ad55560938b36fbcf2fa2220a4d08ea597dc532ece368a3567577fde0249dd1b967a7303f7920553f177d4935f68d63c28adec2c823ab983ee340",
-          "sha256": "35e4c43ac1e9b2aaa9d8a7c1fd63091ecbf8abb7081071253ee17324a4f98b8b",
-          "sha1": "295b21880edceca17cdf20f97881d78021243e70",
-          "md5": "5ca8ed4187836e6250773b6e0a33be08"
+          "size": 583203,
+          "sha512": "9b20fff3c15a2d6f10a36820f5caeacc6c5260fcc9c5c43e2700906cdea408942850674321ae35cb043608b43fbde78c12ff8989ee30bf06c6704ddee23b0161",
+          "sha256": "0b5bfe3eb3378e11e92982085cfb8720b845f453d6258f65d3902229889ebba4",
+          "sha1": "186d0e7ec1786b1da3b0a3e221f243aed996e27a",
+          "md5": "f1a8e5bed39840edccb484ce29d5edf3"
         }
       ]
     },
@@ -71,11 +71,11 @@
         {
           "name": "crnet-2.1.2.jar",
           "url": "crnet-2.1.2.jar",
-          "size": 33839,
-          "sha512": "77ca1ead349ad55560938b36fbcf2fa2220a4d08ea597dc532ece368a3567577fde0249dd1b967a7303f7920553f177d4935f68d63c28adec2c823ab983ee340",
-          "sha256": "35e4c43ac1e9b2aaa9d8a7c1fd63091ecbf8abb7081071253ee17324a4f98b8b",
-          "sha1": "295b21880edceca17cdf20f97881d78021243e70",
-          "md5": "5ca8ed4187836e6250773b6e0a33be08"
+          "size": 583203,
+          "sha512": "9b20fff3c15a2d6f10a36820f5caeacc6c5260fcc9c5c43e2700906cdea408942850674321ae35cb043608b43fbde78c12ff8989ee30bf06c6704ddee23b0161",
+          "sha256": "0b5bfe3eb3378e11e92982085cfb8720b845f453d6258f65d3902229889ebba4",
+          "sha1": "186d0e7ec1786b1da3b0a3e221f243aed996e27a",
+          "md5": "f1a8e5bed39840edccb484ce29d5edf3"
         }
       ]
     }
