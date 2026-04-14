@@ -26,9 +26,9 @@
       "dependencies": [
         {
           "group": "com.saunhardy",
-          "module": "createrington-dev-api",
+          "module": "createrington-api",
           "version": {
-            "requires": "1.1.0"
+            "requires": "1.3.0"
           }
         }
       ],
@@ -36,11 +36,11 @@
         {
           "name": "crnet-2.8.0.jar",
           "url": "crnet-2.8.0.jar",
-          "size": 617737,
-          "sha512": "9da3ec9277b547467ed2814d7186c62ace3c79be29b29f59c19e344156b2b5097710da7e4d33f02dba44c15bccb56dbf7556c65e8af0191fc85b0c6f9ec9509f",
-          "sha256": "1090352973b4ba206950ef202af872654b2c3f2327d43be458acf04ad356bd3b",
-          "sha1": "a187c88201ff8b153f376fed856e19556b6d5a9d",
-          "md5": "98db1b94771ffdb28f5c32fbde01d3a9"
+          "size": 618739,
+          "sha512": "c37eed704dcbdd4c8e1b78652ea94d13f3ccd73cc7138d59d95e5d71697ccd9a72732b7eb5648ff828b0047a9875ea4a99b18394d20b1d371a664a7810079a40",
+          "sha256": "9a94587394e46206573680611f37040403dd6c5736e7b6fcc30c748f609cfff7",
+          "sha1": "ed69bac699bebbfbf2c8238d5f4f5f4a47cae079",
+          "md5": "23f86781817fcb9be6fd11ae5b4545eb"
         }
       ]
     },
@@ -63,9 +63,9 @@
         },
         {
           "group": "com.saunhardy",
-          "module": "createrington-dev-api",
+          "module": "createrington-api",
           "version": {
-            "requires": "1.1.0"
+            "requires": "1.3.0"
           }
         },
         {
@@ -87,11 +87,11 @@
         {
           "name": "crnet-2.8.0.jar",
           "url": "crnet-2.8.0.jar",
-          "size": 617737,
-          "sha512": "9da3ec9277b547467ed2814d7186c62ace3c79be29b29f59c19e344156b2b5097710da7e4d33f02dba44c15bccb56dbf7556c65e8af0191fc85b0c6f9ec9509f",
-          "sha256": "1090352973b4ba206950ef202af872654b2c3f2327d43be458acf04ad356bd3b",
-          "sha1": "a187c88201ff8b153f376fed856e19556b6d5a9d",
-          "md5": "98db1b94771ffdb28f5c32fbde01d3a9"
+          "size": 618739,
+          "sha512": "c37eed704dcbdd4c8e1b78652ea94d13f3ccd73cc7138d59d95e5d71697ccd9a72732b7eb5648ff828b0047a9875ea4a99b18394d20b1d371a664a7810079a40",
+          "sha256": "9a94587394e46206573680611f37040403dd6c5736e7b6fcc30c748f609cfff7",
+          "sha1": "ed69bac699bebbfbf2c8238d5f4f5f4a47cae079",
+          "md5": "23f86781817fcb9be6fd11ae5b4545eb"
         }
       ]
     }
