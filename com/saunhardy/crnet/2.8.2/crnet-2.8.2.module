@@ -28,7 +28,7 @@
           "group": "com.saunhardy",
           "module": "createrington-api",
           "version": {
-            "requires": "1.4.0"
+            "requires": "1.5.0"
           }
         }
       ],
@@ -36,11 +36,11 @@
         {
           "name": "crnet-2.8.2.jar",
           "url": "crnet-2.8.2.jar",
-          "size": 618089,
-          "sha512": "d696d660e057f75ea38a55e4942452a7f1808de5f981abd494ad4f76ffd55f4a7e6cf96970d7195c98023093eb80d64bb86c15fb9cf3dc54f0c7c8137f37e380",
-          "sha256": "420611f6cfd870c588fad631cef9a074e7a9101ea1c9bb71c09aa1798ea82939",
-          "sha1": "1cc36823d6ddfd31fbcaf38e28b83dd716a18331",
-          "md5": "a63b2354db1e18b7418417939c566332"
+          "size": 618436,
+          "sha512": "cc29b86b54865ddfeb142ab2b9503f68df2362abf240a7c2fde413317806aede4d6a63804ff0498a6f45faa7a84076f3620018b26093dd15d2d9f6435d9435cf",
+          "sha256": "25d0f75619f43fba8210143d8f9908694cef5db437d64107eb6a0ea55a243e9e",
+          "sha1": "5afe4a2a4927ec571b3a8740a6ff375df4f16773",
+          "md5": "ded861d9262881f2ae8a05f887a4f450"
         }
       ]
     },
@@ -65,7 +65,7 @@
           "group": "com.saunhardy",
           "module": "createrington-api",
           "version": {
-            "requires": "1.4.0"
+            "requires": "1.5.0"
           }
         },
         {
@@ -87,11 +87,11 @@
         {
           "name": "crnet-2.8.2.jar",
           "url": "crnet-2.8.2.jar",
-          "size": 618089,
-          "sha512": "d696d660e057f75ea38a55e4942452a7f1808de5f981abd494ad4f76ffd55f4a7e6cf96970d7195c98023093eb80d64bb86c15fb9cf3dc54f0c7c8137f37e380",
-          "sha256": "420611f6cfd870c588fad631cef9a074e7a9101ea1c9bb71c09aa1798ea82939",
-          "sha1": "1cc36823d6ddfd31fbcaf38e28b83dd716a18331",
-          "md5": "a63b2354db1e18b7418417939c566332"
+          "size": 618436,
+          "sha512": "cc29b86b54865ddfeb142ab2b9503f68df2362abf240a7c2fde413317806aede4d6a63804ff0498a6f45faa7a84076f3620018b26093dd15d2d9f6435d9435cf",
+          "sha256": "25d0f75619f43fba8210143d8f9908694cef5db437d64107eb6a0ea55a243e9e",
+          "sha1": "5afe4a2a4927ec571b3a8740a6ff375df4f16773",
+          "md5": "ded861d9262881f2ae8a05f887a4f450"
         }
       ]
     }
