@@ -1,0 +1,99 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.saunhardy",
+    "module": "crnet",
+    "version": "3.0.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.2.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.saunhardy",
+          "module": "createrington-api",
+          "version": {
+            "requires": "1.9.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "crnet-3.0.2.jar",
+          "url": "crnet-3.0.2.jar",
+          "size": 617290,
+          "sha512": "491967810fab93804029699036625ac0f1976df589a9e5959daa955c3aaeb9e2dd4312b59d0062a68e3956c3f0a41b414717709261b195f4b042d1998de83e54",
+          "sha256": "bdadd1a0adce19f6b4e61a8881a3a0267e75c103729117f175f7627b270cbff9",
+          "sha1": "ad96e3126b38f52b652cb9f1ced54dc56ae70282",
+          "md5": "a7243f2fe010389188fe65083b15feaf"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.jsonwebtoken",
+          "module": "jjwt-api",
+          "version": {
+            "requires": "0.12.5"
+          }
+        },
+        {
+          "group": "com.saunhardy",
+          "module": "createrington-api",
+          "version": {
+            "requires": "1.9.0"
+          }
+        },
+        {
+          "group": "io.jsonwebtoken",
+          "module": "jjwt-impl",
+          "version": {
+            "requires": "0.12.5"
+          }
+        },
+        {
+          "group": "io.jsonwebtoken",
+          "module": "jjwt-gson",
+          "version": {
+            "requires": "0.12.5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "crnet-3.0.2.jar",
+          "url": "crnet-3.0.2.jar",
+          "size": 617290,
+          "sha512": "491967810fab93804029699036625ac0f1976df589a9e5959daa955c3aaeb9e2dd4312b59d0062a68e3956c3f0a41b414717709261b195f4b042d1998de83e54",
+          "sha256": "bdadd1a0adce19f6b4e61a8881a3a0267e75c103729117f175f7627b270cbff9",
+          "sha1": "ad96e3126b38f52b652cb9f1ced54dc56ae70282",
+          "md5": "a7243f2fe010389188fe65083b15feaf"
+        }
+      ]
+    }
+  ]
+}
