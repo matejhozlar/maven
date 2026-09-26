@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.saunhardy",
+    "module": "createrington-api",
+    "version": "1.13.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.12"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "createrington-api-1.13.0.jar",
+          "url": "createrington-api-1.13.0.jar",
+          "size": 45224,
+          "sha512": "13731ccac305c956ed41b064e341daf826b2126746e90b2e206509c680cbd11235a9350d7fe60943a1866de4a9a70e408fb84dadbe475e6d3eaa6e1c8efb0f8b",
+          "sha256": "808dc5dbd018efada26817041235d7b65f142bba6df1c52d2d5823bf9300b4ed",
+          "sha1": "b7a00ca564976e4742bd3e0d79f07fb54927e98c",
+          "md5": "764f22c9b83b5241a8073f265829d461"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "createrington-api-1.13.0.jar",
+          "url": "createrington-api-1.13.0.jar",
+          "size": 45224,
+          "sha512": "13731ccac305c956ed41b064e341daf826b2126746e90b2e206509c680cbd11235a9350d7fe60943a1866de4a9a70e408fb84dadbe475e6d3eaa6e1c8efb0f8b",
+          "sha256": "808dc5dbd018efada26817041235d7b65f142bba6df1c52d2d5823bf9300b4ed",
+          "sha1": "b7a00ca564976e4742bd3e0d79f07fb54927e98c",
+          "md5": "764f22c9b83b5241a8073f265829d461"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "createrington-api-1.13.0-sources.jar",
+          "url": "createrington-api-1.13.0-sources.jar",
+          "size": 16944,
+          "sha512": "ecc606708e48bd0e9a2d470c7912820116030268ccd999eea198a3a730adc9cd43f6c17c01d886bf77b7a828a3ca22a1bb3ea6d2dae4808e9af98ba38e056df9",
+          "sha256": "01c125f33bf8585bab042f33520d188eb3ed629a50f3910ebd765ec30ef2d930",
+          "sha1": "c6882634c8e2b6edee3c1f3479c48be530ed38e8",
+          "md5": "ba5221da5526b6b5457abaeac7dbe351"
+        }
+      ]
+    }
+  ]
+}
